@@ -18,5 +18,5 @@ This game was developed for use as technologies, libGDX is a relatively low leve
 
 <h2>My profile</h2>
 diego.paula@live.com <br>
-<a href="https://www.facebook.com/diego.ferratone">Facebook</a><br>
+<a href="https://www.facebook.com/diegobpaula">Facebook</a><br>
 <a href="https://www.linkedin.com/in/diegobpaula/">Linkedin</a>
