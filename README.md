@@ -12,8 +12,8 @@ This game was developed for use as technologies, libGDX is a relatively low leve
 3.   libGDX
 
 <h2>Screenshots</h2>
-<img src="https://drive.google.com/open?id=16hPvjx6iuX8eAYLaLClC-Pt2F-yAR6SD"/>
-<img src="https://drive.google.com/file/d/1t2u-KVgm1JwJlD7_t1JGgRe8jNLktcCi/view?usp=sharing"/>
+<img src="https://github.com/diegobpaula/FlappyBirds/blob/master/FlappyBirds/Screenshots_1.png"/>
+<img src="https://github.com/diegobpaula/FlappyBirds/blob/master/FlappyBirds/Screenshots_2.png"/>
 
 
 <h2>My profile</h2>
